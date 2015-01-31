@@ -1677,6 +1677,7 @@ containing a value of this type.
         public static final int next_button=0x7f050042;
         public static final int none=0x7f050004;
         public static final int normal=0x7f050001;
+        public static final int prev_button=0x7f050043;
         public static final int progress_circular=0x7f05001c;
         public static final int progress_horizontal=0x7f05001d;
         public static final int question_text_view=0x7f05003f;
@@ -1823,11 +1824,12 @@ containing a value of this type.
         public static final int incorrect_toast=0x7f0a0015;
         public static final int menu_setting=0x7f0a0013;
         public static final int next_button=0x7f0a0016;
-        public static final int question_afrticas=0x7f0a0019;
-        public static final int question_americas=0x7f0a001a;
-        public static final int question_asia=0x7f0a001b;
-        public static final int question_mideast=0x7f0a0018;
-        public static final int question_oceans=0x7f0a0017;
+        public static final int prev_button=0x7f0a0017;
+        public static final int question_afrticas=0x7f0a001a;
+        public static final int question_americas=0x7f0a001b;
+        public static final int question_asia=0x7f0a001c;
+        public static final int question_mideast=0x7f0a0019;
+        public static final int question_oceans=0x7f0a0018;
         /**   <string name="question_text">Constantinople is the largest city in Turkey</string> 
          */
         public static final int true_button=0x7f0a0011;
